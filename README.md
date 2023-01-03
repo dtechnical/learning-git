@@ -1,13 +1,13 @@
 # Git and Github Course
 # Git
-It is a command-line session showing repository creation, addition of a file, and remote synchronization.
+Git is a command-line session showing repository creation, addition of a file, and remote synchronization.
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+It is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 Git is also called a distributed version control system: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
 # GitHub 
-is an Internet hosting service for software development and version control using Git. 
+Github is an Internet hosting service for software development and version control using Git. 
 It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 
 # This repo was used to learn git from Amigoscode
