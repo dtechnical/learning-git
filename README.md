@@ -1,6 +1,8 @@
 # Git and Github Course
-It is a command-line session showing repository creation, addition of a file, and remote synchronization
+It is a command-line session showing repository creation, addition of a file, and remote synchronization.
+
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
 Git is also called a distributed version control system: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
 
